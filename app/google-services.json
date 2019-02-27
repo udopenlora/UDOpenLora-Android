@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "307028095224",
+    "firebase_url": "https://udopenlora.firebaseio.com",
+    "project_id": "udopenlora",
+    "storage_bucket": "udopenlora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307028095224:android:e9e93137f2a14713",
+        "android_client_info": {
+          "package_name": "com.sdc.udn.lorakwh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307028095224-chj1ijspacmds360j9t9sb5djakj65ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONdj_pCCuafFOlQMILk3DITg-Kq4K8S4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307028095224:android:ce106ced5a4e6f1c",
+        "android_client_info": {
+          "package_name": "com.sdc.udn.openlora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307028095224-chj1ijspacmds360j9t9sb5djakj65ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONdj_pCCuafFOlQMILk3DITg-Kq4K8S4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

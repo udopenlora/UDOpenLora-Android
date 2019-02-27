@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UD OpenLora</string>
+    <string name="lbl_receive_at">RECEIVED AT:</string>
+    <string name="lbl_source_control">Source of Control:</string>
+    <string name="lbl_status">Status:</string>
+    <string name="lbl_device_list">List of devices</string>
+    <string name="lbl_on">ON</string>
+    <string name="lbl_off">OFF</string>
+    <string name="bot_message_need_help">Can I help you?</string>
+    <string name="need_permission_micro">Need permission Micro to talk</string>
+    <string name="bot_message_error_speech_to_text">I don\'t understand. Can you speak again</string>
+</resources>

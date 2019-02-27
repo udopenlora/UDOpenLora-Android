@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/padding"
+        android:paddingLeft="@dimen/padding"
+        android:paddingRight="@dimen/padding"
+        android:layout_height="wrap_content">
+
+    <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TableRow>
+            <android.support.v7.widget.AppCompatTextView
+                    android:text="@string/lbl_receive_at"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblTime"
+                    android:layout_width="0dp"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"/>
+        </TableRow>
+        <TableRow>
+            <android.support.v7.widget.AppCompatTextView
+                    android:text="@string/lbl_source_control"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblSource"
+                    android:layout_width="0dp"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"/>
+        </TableRow>
+        <TableRow>
+            <android.support.v7.widget.AppCompatTextView
+                    android:text="@string/lbl_status"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            <android.support.v7.widget.AppCompatTextView
+                    android:id="@+id/lblStatus"
+                    android:layout_width="0dp"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"/>
+        </TableRow>
+    </TableLayout>
+
+    <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="@dimen/margin"
+            android:background="@android:color/darker_gray"
+            android:layout_height="1dp"/>
+</LinearLayout>

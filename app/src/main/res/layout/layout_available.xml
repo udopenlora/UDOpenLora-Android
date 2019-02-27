@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/viewAvailable"
+      android:background="@drawable/bg_available_view"
+      android:saveEnabled="false"
+      android:padding="@dimen/padding"
+      android:layout_width="15dp"
+      android:layout_height="15dp"/>
